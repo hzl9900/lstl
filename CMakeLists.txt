@@ -12,4 +12,3 @@ set(CMAKE_MODULE_PATH "${CMAKE_CURRENT_LIST_DIR}/cmake;${CMAKE_MODULE_PATH}")
 project(CppCMakeDemo VERSION 0.1.0 LANGUAGES CXX)
 
 add_subdirectory(lstl)
-add_subdirectory(MyGO)
